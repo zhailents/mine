@@ -1,0 +1,74 @@
+[03:37:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:37:43] [ServerMain/INFO]: Loaded 1407 recipes
+[03:37:43] [ServerMain/INFO]: Loaded 1520 advancements
+[03:37:43] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[03:37:43] [Server thread/INFO]: Loading properties
+[03:37:43] [Server thread/INFO]: Default game type: SURVIVAL
+[03:37:43] [Server thread/INFO]: Generating keypair
+[03:37:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:37:44] [Server thread/INFO]: Using epoll channel type
+[03:37:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:37:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:37:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:37:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:37:44] [Server thread/INFO]: Preparing level "world"
+[03:37:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:37:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:37:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:37:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:37:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:37:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:37:46] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[03:37:47] [Server thread/INFO]: Time elapsed: 2625 ms
+[03:37:47] [Server thread/INFO]: Done (2.897s)! For help, type "help"
+[03:38:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:40:18] [Server thread/INFO]: zhailen[/127.7.207.70:55145] logged in with entity id 76 at (24.928318132943133, 138.0, 22.581228589246816)
+[03:40:18] [Server thread/INFO]: zhailen joined the game
+[03:44:41] [Server thread/INFO]: M394M[/127.251.32.73:59531] logged in with entity id 1021 at (0.5, 130.0, 6.5)
+[03:44:41] [Server thread/INFO]: M394M joined the game
+[03:44:48] [Server thread/INFO]: [Not Secure] <M394M> hola chat
+[03:44:52] [Server thread/INFO]: [Not Secure] <M394M> si funciona
+[03:44:52] [Server thread/INFO]: [Not Secure] <zhailen> hola
+[03:45:02] [Server thread/INFO]: [Not Secure] <zhailen> si xd
+[03:45:23] [Server thread/INFO]: [Not Secure] <zhailen> falta un plugin pa las skins
+[03:45:37] [Server thread/INFO]: [Not Secure] <M394M> no se yo tengo premium
+[03:45:44] [Server thread/INFO]: [Not Secure] <zhailen> ves tu skins?
+[03:45:47] [Server thread/INFO]: [Not Secure] <M394M> no
+[03:45:50] [Server thread/INFO]: [Not Secure] <zhailen> por eso
+[03:45:52] [Server thread/INFO]: [Not Secure] <zhailen> xd
+[03:46:07] [Server thread/INFO]: [Not Secure] <zhailen> juega noma si queri
+[03:46:10] [Server thread/INFO]: [Not Secure] <zhailen> ta weno el sv
+[03:46:17] [Server thread/INFO]: [Not Secure] <M394M> ya estaba jugando ender magnolia
+[03:46:26] [Server thread/INFO]: [Not Secure] <M394M> lo tenia guardado para jugar completo este fin de semana
+[03:46:26] [Server thread/INFO]: [Not Secure] <zhailen> q e eso
+[03:46:33] [Server thread/INFO]: [Not Secure] <M394M> continuacion de ender lilies
+[03:46:37] [Server thread/INFO]: [Not Secure] <M394M> un metroidvania
+[03:46:47] [Server thread/INFO]: [Not Secure] <zhailen> opa
+[03:46:50] [Server thread/INFO]: [Not Secure] <zhailen> a alex le gusta
+[03:47:02] [Server thread/INFO]: [Not Secure] <M394M> aen una de esas lo jugo
+[03:47:04] [Server thread/INFO]: [Not Secure] <M394M> no creo si
+[03:47:09] [Server thread/INFO]: [Not Secure] <M394M> muy anime
+[03:47:24] [Server thread/INFO]: [Not Secure] <M394M> pero funciona
+[03:47:28] [Server thread/INFO]: [Not Secure] <zhailen> si
+[03:47:30] [Server thread/INFO]: [Not Secure] <zhailen> gracias
+[03:47:32] [Server thread/INFO]: [Not Secure] <M394M> no se que tendra tu amiga qwue no le conecta
+[03:47:37] [Server thread/INFO]: [Not Secure] <zhailen> es q
+[03:47:46] [Server thread/INFO]: [Not Secure] <zhailen> no cacha mucho
+[03:47:52] [Server thread/INFO]: [Not Secure] <zhailen> ni sabia que con asw se movia
+[03:47:54] [Server thread/INFO]: [Not Secure] <zhailen> el mono
+[03:48:09] [Server thread/INFO]: [Not Secure] <zhailen> quizas no le dio a aceptar a esto de conexciones publicas de java
+[03:48:17] [Server thread/INFO]: [Not Secure] <M394M> puede ser igual
+[03:48:37] [Server thread/INFO]: [Not Secure] <M394M> puede que simplemente no tenga la version correcta
+[03:48:52] [Server thread/INFO]: [Not Secure] <zhailen> tmb
+[03:48:57] [Server thread/INFO]: [Not Secure] <zhailen> voy a revisarle eso tmb
+[03:49:10] [Server thread/INFO]: [Not Secure] <M394M> bueno
+[03:49:12] [Server thread/INFO]: [Not Secure] <M394M> ahi ves
+[03:49:14] [Server thread/INFO]: [Not Secure] <M394M> chao
+[03:49:17] [Server thread/INFO]: [Not Secure] <zhailen> chau
+[03:49:19] [Server thread/INFO]: M394M lost connection: Disconnected
+[03:49:19] [Server thread/INFO]: M394M left the game
+[03:50:18] [Server thread/INFO]: zhailen was slain by Zombie
+[03:50:31] [Server thread/INFO]: zhailen has made the advancement [Monster Hunter]
+[03:54:40] [Server thread/INFO]: zhailen lost connection: Disconnected
+[03:54:40] [Server thread/INFO]: zhailen left the game
+[03:55:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
